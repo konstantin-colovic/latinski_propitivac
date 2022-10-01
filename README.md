@@ -1,5 +1,3 @@
-# Latinski propitivac
- Propitivac reci za latinski jezik u TBG po formatu nast. Natalije aka Devilius.
 # Latin questioning app
- Latin questioning app designed for the TBG format as desired by teacher Natalija aka Devilius.
-## Credit: Konstantin Colovic 2020
+ This app is designed for you to copy-paste latin words lists from the famous Belgrade Latin proffesor Natalija Milinkovic into the .csv files. Then the computer will read the .csv files and question you in the imputted words. I know there are many better alternatives with sofisticated AI out there, but I needed to study for a test and learn just 100 specific words and since I am too lazy to find the words on Anki and such, i just decided to write some code which will understand the teachers format of writing words.
+###Credit: Konstantin Colovic 2020
